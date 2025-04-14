@@ -18,7 +18,7 @@ I'm a firm believer in **learning by doing**, so I love experimenting with new t
 
 Feel free to reach out if you want to collaborate or just chat about technology. You can connect with me via:
 
-- [LinkedIn](www.linkedin.com/in/subrayahegde)
+- [LinkedIn](https://www.linkedin.com/in/subrayahegde)
 - [Email](mailto:subrayahegde@gmail.com)
 
 ## 📝 Fun Facts
