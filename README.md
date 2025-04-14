@@ -1,21 +1,11 @@
-╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Subraya Hegde
-║ I'm a Sr. Project Management pro from Bangalore, India.   ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, Angular, Vue, React, Next, Node.js 
-║ My areas of interest are AI/ML, LLMs, Python, Backend,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Web Development,Cloud, REST APIs, blah, blah, anything    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║                                                           ║ ┃   ┗━━ ⭐ Dotnet, J2EE                     
-║ related to computer programming out there.                ║ ┣━━ 🔢 Project Management
-║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity"><pre lang="plaintext" class="notranslate"><code>╔════════════════════════ Hey There! ═══════════════════════╗ 
-
  <div class="Box mt-4 " >
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
         <a
-          href="/Siddhesh-Agarwal/Siddhesh-Agarwal"
+          href="/SubrayaHegde/SubrayaHegde"
           class="no-underline Link--primary"
-        >Siddhesh-Agarwal</a><span
+        >Subraya Hegde</a><span
           class="color-fg-muted d-inline-block"
           style="padding:0px 2px;"
         >/</span>README<span
@@ -24,21 +14,17 @@
       </div>
 
     </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
-║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="╔════════════════════════ Hey There!  ╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Subraya Hegde
+║ I'm a Sr. Project Management pro from Bangalore, India.   ║ ┣━━ 💻 App/Web development
+║                                                           ║ ┃   ┣━━ ⭐ JS/TS, Angular, Vue, React, Next, Node.js 
+║ My areas of interest are AI/ML, LLMs, Python, Backend,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
+║ Web Development,Cloud, REST APIs, blah, blah, anything    ║ ┃   ┗━━ ⭐ PHP, Laravel
+║                                                           ║ ┃   ┗━━ ⭐ Dotnet, J2EE                     
+║ related to computer programming out there.                ║ ┣━━ 🔢 Project Management
 ║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity"><pre lang="plaintext" class="notranslate"><code>╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
-║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
-║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity">
+<pre lang="plaintext" class="notranslate"><code>
+
 </code></pre></div>
 <div align="center" dir="auto">
   <a href="https://dev.to/siddhesh_agarwal" rel="nofollow"><img alt="Dev.to" src="https://camo.githubusercontent.com/9f261cffd89ec38be7a29e57b39ce471d2fdfe0668ad61a91f55e048511fbfd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d646576646f74746f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" style="max-width: 100%;"></a>
