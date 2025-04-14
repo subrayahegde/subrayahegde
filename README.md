@@ -1,16 +1,10 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
-║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Subraya Hegde
+║ I'm a Sr. Project Management pro from Bangalore, India.   ║ ┣━━ 💻 App/Web development
+║                                                           ║ ┃   ┣━━ ⭐ JS/TS, Angular, Vue, React, Next, Node.js 
+║ My areas of interest are AI/ML, LLMs, Python, Backend,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
+║ Web Development,Cloud, REST APIs, blah, blah, anything    ║ ┃   ┗━━ ⭐ PHP, Laravel
+║                                                           ║ ┃   ┗━━ ⭐ Dotnet, J2EE                     
+║ related to computer programming out there.                ║ ┣━━ 🔢 Project Management
 ║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity"><pre lang="plaintext" class="notranslate"><code>╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
-║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
-║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity"><pre lang="plaintext" class="notranslate"><code>╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal     
 </code></pre></div>
