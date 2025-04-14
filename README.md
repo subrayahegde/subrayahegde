@@ -1,32 +1,78 @@
- <div class="Box mt-4 " >
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a
-          href="/SubrayaHegde/SubrayaHegde"
-          class="no-underline Link--primary"
-        >Subraya Hegde</a><span
-          class="color-fg-muted d-inline-block"
-          style="padding:0px 2px;"
-        >/</span>README<span
-         class="color-fg-muted"
-        >.md</span>
-      </div>
+# Hi there, I'm Subraya Hegde👋
 
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="╔════════════════════════ Hey There!  ╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Subraya Hegde
-║ I'm a Sr. Project Management pro from Bangalore, India.   ║ ┣━━ 💻 App/Web development
-║                                                           ║ ┃   ┣━━ ⭐ JS/TS, Angular, Vue, React, Next, Node.js 
-║ My areas of interest are AI/ML, LLMs, Python, Backend,    ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Web Development,Cloud, REST APIs, blah, blah, anything    ║ ┃   ┗━━ ⭐ PHP, Laravel
-║                                                           ║ ┃   ┗━━ ⭐ Dotnet, J2EE                     
-║ related to computer programming out there.                ║ ┣━━ 🔢 Project Management
-║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
-╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity">
-<pre lang="plaintext" class="notranslate"><code>
+Welcome to my GitHub profile! I'm a passionate Project Management pro with a love for latest tools and technologies in AI/ML/GenAI area. Here, you'll find a collection of projects that reflect my interests and skills.
 
-</code></pre></div>
+## 🔧 Technologies & Tools
 
-</article>
-  </div>
-</div>
+I'm a firm believer in **learning by doing**, so I love experimenting with new technologies! Some of my favorite tools and languages include:
+
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, Go, Rust
+- **Web Development**: React, Node.js, Express, Next.js, Vue.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines
+- **Cloud Platforms**: AWS, GCP, Azure
+- **Version Control**: Git, GitHub, GitLab
+- **Others**: GraphQL, WebSockets, Machine Learning, IoT, Blockchain
+
+## 🚀 Projects
+
+Here are some of the key projects I've worked on. Feel free to explore and contribute!
+
+### [Project 1 Name](link_to_project)
+**Description**: A brief summary of the project, what it does, and why it's important.
+- Built with: Tech stack used
+- Features: List some cool features
+- Link to Demo or Documentation: [Live Demo](link_to_demo)
+
+### [Project 2 Name](link_to_project)
+**Description**: A brief summary of the project, what it does, and why it's important.
+- Built with: Tech stack used
+- Features: List some cool features
+- Link to Demo or Documentation: [Live Demo](link_to_demo)
+
+### [Project 3 Name](link_to_project)
+**Description**: A brief summary of the project, what it does, and why it's important.
+- Built with: Tech stack used
+- Features: List some cool features
+- Link to Demo or Documentation: [Live Demo](link_to_demo)
+
+## 🌱 Current Learning
+
+I'm always learning new things! Currently, I'm focusing on:
+
+- Exploring **[New Technologies]**
+- Enhancing my skills in **[Specific Areas]**
+- Contributing to **Open Source** communities
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you want to collaborate or just chat about technology. You can connect with me via:
+
+- [LinkedIn](your_linkedin_url)
+- [Twitter](your_twitter_url)
+- [Portfolio/Personal Website](your_website_url)
+- [Email](mailto:your_email@example.com)
+
+## 📚 My Favorite Reads
+
+Here are some of my favorite books/resources that have helped me in my tech journey:
+
+- **[Book/Resource Title](Link)** - Brief description of why it’s a must-read for you.
+- **[Book/Resource Title](Link)** - Another must-read in your field.
+- **[Book/Resource Title](Link)** - If you love learning, this is a great resource.
+
+## 📝 Fun Facts
+
+- I love **[Hobby]** and enjoy **[Hobby]** during my free time.
+- I'm an advocate for **[cause or community involvement]**.
+- I believe in **[your personal philosophy or motivation]**.
+
+---
+
+Thanks for stopping by! 🚀  
+Feel free to explore my repositories, open issues, or contribute to the projects you find interesting. Happy coding! ✨
+
