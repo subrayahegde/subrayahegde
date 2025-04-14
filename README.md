@@ -27,7 +27,6 @@
 
 </code></pre></div>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a4721d900daad7829d916da8a98491d9ced7faead4745924552a7626861169d/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f53696464686573682d4167617277616c2f636f756e742e737667"><img alt="Visitor Count" src="https://camo.githubusercontent.com/7a4721d900daad7829d916da8a98491d9ced7faead4745924552a7626861169d/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f53696464686573682d4167617277616c2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg" style="max-width: 100%;"></a></p>
 </article>
   </div>
 </div>
