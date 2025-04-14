@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate Project Management professional w
 
 I'm a firm believer in **learning by doing**, so I love experimenting with new technologies! Some of my favorite tools and languages include:
 
-- **Programming Languages**: Python, JavaScript, TypeScript, Dotnet, Java, REST APIs, GraphQL
-- **Web Development**: React, Angular, Node.js, Express, Next.js, Vue.js
+- **Programming Languages**: Python, JavaScript, TypeScript, Dotnet, Java, REST APIs, GraphQl
+- **Web Development**: React, Angular, Express, Next.js, Vue.js, Node.js
 - **Databases**: MySQL, Oracle/SQL Server, MongoDB (NoSql)
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
 - **Cloud Platforms**: AWS, GCP, Azure
