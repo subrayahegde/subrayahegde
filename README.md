@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Project Management professional with a love for latest tools and technologies in AI/ML/GenAI area. Here, you'll find all the details about me.
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 
 I'm a firm believer in **learning by doing**, so I love experimenting with new technologies! Some of my favorite tools and languages include:
 
