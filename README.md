@@ -1,6 +1,6 @@
 # Hi there, I'm Subraya Hegde👋
 
-Welcome to my GitHub profile! I'm a passionate Project Management professional with a love for latest tools and technologies in AI/ML/GenAI area. Here, you'll find all the details about me.
+Welcome to my GitHub profile! I'm a passionate Project Management professional with a love for latest tools and technologies in AI,ML, GenAI area. Here, you'll find all the details about me.
 
 ## 🔧 Tools & Technologies
 
